@@ -20,7 +20,7 @@
 						  <input name="nombre"  type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nombre" maxlength="50">
 						</div>
 						<div class="mb-3">
-						  <label for="exampleFormControlTextarea1" class="form-label" placeholder="999.9">Precio</label>
+						  <label for="exampleFormControlTextarea1" class="form-label" placeholder="999">Precio</label>
 						  <input name="precio" type="number" class="form-control" id="exampleFormControlTextarea1">
 						</div>
 						<div class="mb-3">
