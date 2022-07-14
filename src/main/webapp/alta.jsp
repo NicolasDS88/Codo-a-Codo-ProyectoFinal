@@ -11,7 +11,7 @@
 			<%@include file="navbar.jsp" %>
 			<div class="container">
 				<section>
-					<h1>Alta</h1>
+					<h1>Alta del producto</h1>
 					<!--  JSP -->
 					<form method="post"
 						action="<%=request.getContextPath()%>/CreateController">
